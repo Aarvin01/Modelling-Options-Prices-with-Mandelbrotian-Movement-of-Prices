@@ -1,4 +1,6 @@
-# GWP Capstone - Worldquant MScFE Program
+# GWP Capstone - WorldQuant MScFE Program
+
+## Problem Statement: Modelling Options Prices with Mandelbrotian Movement of Prices
 
 This repo is used for pricing options based on various methods listed below -
 
