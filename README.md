@@ -1,4 +1,4 @@
-# GWP Capstone - WorldQuant MScFE Program
+# Capstone Project - WorldQuant MScFE
 
 ## Problem Statement: Modelling Options Prices with Mandelbrotian Movement of Prices
 
