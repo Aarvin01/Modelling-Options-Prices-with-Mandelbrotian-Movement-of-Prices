@@ -4,14 +4,13 @@
 
 This repo is used for pricing options based on various methods listed below -
 
-1. Black Scholes
-2. Mandelbrotian
-3. Jump-Diffusion
+1. Black Scholes Model
+2. Mandelbrotian Multifractal Model 
+3. Merton Jump-Diffusion Model
 4. Binomial Option pricing
 
-
-We have used NSE Nifty Index data to check option pricing strategies.
-
+We have used NSE Nifty Index data to check option pricing strategies. 
+This repo is used to price options using Mandelbrotian Multifractal Model and compare it to traditional option pricing models (BSM, Metron jump diffusion and Binomial).
 
 Project Guidance Under -
 
